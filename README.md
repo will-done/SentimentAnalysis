@@ -1,6 +1,6 @@
 # Sentiment Analysis Using Twitter Data
 
-The purpose of this project is to perform sentiment analysis on Twitter data and predict the results of this analysis using a linear regression model.
+The aim of this project is to perform sentiment analysis on Twitter data and create an NLP project that predicts the results of this analysis using a linear regression model.
 
 Understanding users' emotional states from their posts on social media can provide important insights in various fields.
 
